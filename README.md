@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 HI I'm Laurentius Antara a.k.a Lmx:
 🚀 Full-Stack Developer | Passionate about Frontend & Backend Technologies  
 💡 Constantly Learning & Experimenting with New Tech  
 📍 Based in Yogyakarta, Indonesia  
