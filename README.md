@@ -1,4 +1,4 @@
-# 💫 Hi I'm Laurentius Antara
+# 😹 Hi I'm Laurentius Antara
 🚀 Full-Stack Developer | Passionate about Frontend & Backend Technologies  
 💡 Constantly Learning & Experimenting with New Tech  
 📍 Based in Yogyakarta, Indonesia  
@@ -23,9 +23,10 @@
 ---
 
 ## 🎮 Fun Facts:
-- 🔥 I love experimenting with new web technologies  
+- 🔥 I love experimenting with new web technologies
+- 👾 Pixel Art Enthusiast
 - 🎯 Always optimizing code for performance  
-- 🏆 Code, coffee, and creativity keep me going  
+- 🏆 Code, gaming, and creativity keep me going  
 
 ---
 
