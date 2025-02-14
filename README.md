@@ -14,6 +14,7 @@
 ## 💭 My Portofolio:
 [![Portofolio](https://img.shields.io/badge/Portofolio-14532D?style=for-the-badge&logo=linkedin&logoColor=white)](https://xymch.me)
 
+
 ---
 
 ## 📊 GitHub Stats:
