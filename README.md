@@ -1,1 +1,3 @@
-![MasterHead](https://i.pinimg.com/originals/f3/48/f8/f348f88d05a2b402ad334ac2ef26336e.gif)
+<p align="center">
+<img src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif"
+</p>
