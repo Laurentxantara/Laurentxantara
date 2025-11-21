@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/27Wdwpfh/github-header-banner-2.png"/>
+  <img src="img/aku_android.png"/>
 </p>
 
 <div align="center">
