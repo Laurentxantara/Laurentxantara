@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/aku_android.png"/>
+  <img src="img/aku_android_2.png"/>
 </p>
 
 <div align="center">
