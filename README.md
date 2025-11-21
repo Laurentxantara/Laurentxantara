@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/dwT75wqq/github-header-banner.png"/>
+  <img src="https://i.ibb.co.com/27Wdwpfh/github-header-banner-2.png"/>
 </p>
 
 <div align="center">
@@ -16,7 +16,7 @@
 <br/>
 
 <h3 align="center">
-    💡About the Dev
+    About the Dev
 </h3>
 
 <p align="center">I'm a Full-Stack Developer with a strong passion for frontend development <img src="https://img.shields.io/badge/Frontend-%23F7DF1E?style=for-the-badge" height="22"/> and a growing focus on Android workflows <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="22"/>, especially debugging <img src="https://img.shields.io/badge/Debugging-%23007ACC?style=for-the-badge" height="22"/>, UI behavior, and Logcat analysis <img src="https://img.shields.io/badge/Logcat-%23FF6F00?style=for-the-badge" height="22"/>. I love crafting clean, intuitive interfaces and exploring how frontend and mobile layers connect behind the scenes. Whether I'm optimizing layouts, tracking down tricky Android logs <img src="https://img.shields.io/badge/Logs-%2300BCD4?style=for-the-badge" height="22"/>, or polishing user experiences, I always aim to make the process enjoyable, efficient, and impactful.
@@ -25,7 +25,7 @@
 ---
 
 <h3 align="center">
-    💻Tech Stack
+    Tech Stack
 </h3>
 
 <p align="center">
@@ -35,7 +35,7 @@
 <br/>
 
 <h3 align="center">
-    📊My Stats
+    My Stats
 </h3>
 
 <p align="center">
